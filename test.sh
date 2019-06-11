@@ -1,1 +1,1 @@
-echo 'spin test'
+echo 'spin test' >> test.properties
